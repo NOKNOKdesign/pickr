@@ -1,0 +1,18 @@
+{
+    "name": "noknok-studios/pickr",
+    "type": "library",
+    "description": "",
+    "version": "1.7.4",
+    "main": "jquery.js",
+    "scripts": [
+        "dist/pickr.es5.min.js",
+        "dist/pickr.min.js",
+    ],
+    "files": [
+        "dist/pickr.es5.min.js.map",
+        "dist/pickr.min.js.map",
+        "dist/themes/classic.min.css",
+        "dist/themes/monolith.min.css",
+        "dist/themes/nano.min.css",
+    ]
+ }
