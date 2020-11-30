@@ -2,7 +2,7 @@
     "name": "noknok-studios/pickr",
     "type": "library",
     "description": "",
-    "version": "1.7.4-r2",
+    "version": "1.7.5",
     "main": "jquery.js",
     "scripts": [
         "dist/pickr.es5.min.js",
