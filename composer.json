@@ -6,13 +6,13 @@
     "main": "jquery.js",
     "scripts": [
         "dist/pickr.es5.min.js",
-        "dist/pickr.min.js",
+        "dist/pickr.min.js"
     ],
     "files": [
         "dist/pickr.es5.min.js.map",
         "dist/pickr.min.js.map",
         "dist/themes/classic.min.css",
         "dist/themes/monolith.min.css",
-        "dist/themes/nano.min.css",
+        "dist/themes/nano.min.css"
     ]
  }
